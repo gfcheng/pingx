@@ -3,7 +3,7 @@
  Name        : pingx.c
  Author      : Ray Cheung
  Version     :
- Description : Ping Multip:wq
+ Description : ping multiple host
  ============================================================================
  */
 #include <ctype.h>
